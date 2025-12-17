@@ -1,0 +1,16 @@
+# Datasets (MNIST téléchargé, données générées)
+mnist.npz
+fashion_mnist*/
+data/
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
