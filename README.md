@@ -70,10 +70,10 @@ Accuracy sur le jeu de test :
 
 | Tâche | Accuracy |
 |---|---|
-| CNN, 10 classes | 98,25 % |
-| CNN, pair/impair | 98,95 % |
-| Transfert d'apprentissage, `Dense(100)` | 98,89 % |
-| Transfert d'apprentissage, `Dense(40)` | 99,00 % |
+| CNN, 10 classes | 97,91 % |
+| CNN, pair/impair | 98,54 % |
+| Transfert d'apprentissage, `Dense(100)` | 99,06 % |
+| Transfert d'apprentissage, `Dense(40)` | 99,02 % |
 
 Les erreurs du CNN 10 classes viennent surtout d'ambiguïtés entre certains chiffres : 3 et 8, 7 et 2, 4 et 9.
 
