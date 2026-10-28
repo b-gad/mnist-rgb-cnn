@@ -77,4 +77,6 @@ Accuracy sur le jeu de test :
 
 Les erreurs du CNN 10 classes viennent surtout d'ambiguïtés entre certains chiffres : 3 et 8, 7 et 2, 4 et 9.
 
+Ce projet a été réalisé au S5 2025-2026 (rendu en janvier 2026) et publié sur GitHub en octobre 2026.
+
 Projet réalisé avec Gaspard Beaudic
